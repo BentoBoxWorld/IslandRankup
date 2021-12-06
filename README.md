@@ -3,6 +3,8 @@ This is a BentoBox addon to automatically rankup and rankdown the player based o
 
 Original code is by Weaves and bertek41.
 
+[![Build](https://github.com/BentoBoxWorld/IslandRankup/actions/workflows/build.yml/badge.svg)](https://github.com/BentoBoxWorld/IslandRankup/actions/workflows/build.yml)
+
 ## Details
 This resource will rankup and rankdown your players automatically when they do the "/island level" command. It will also send a customizable message or broadcast.
 
