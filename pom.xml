@@ -49,10 +49,8 @@
         <build.number>-LOCAL</build.number>
         <!-- This allows to change between versions. -->
         <build.version>1.8.6</build.version>
-        <sonar.projectKey>BentoBoxWorld_IslandRankup</sonar.projectKey>
         <sonar.organization>bentobox-world</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-
     </properties>
     <!-- Profiles will allow to automatically change build version. -->
     <profiles>
